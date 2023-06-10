@@ -1,4 +1,4 @@
-# -fBlok
+# ifBlok
 public class IfBlock {
 
     public static void main(String[] args) {
